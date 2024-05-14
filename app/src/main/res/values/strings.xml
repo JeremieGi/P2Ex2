@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">P2 Ex2</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home</string>
+    <string name="details_fragment_label">Details</string>
+    <string name="create_fragment_label">Create</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="description_button_add">Add</string>
+    <string name="description_button_delete">Delete</string>
+    <string name="description_button_edit">Edit</string>
+
+    <string name="information">%1$s, %2$d years old! Its weight is %3$s kilograms and its size is %4$s centimeters.</string>
+
+    <string name="breed_cat">cat</string>
+    <string name="breed_dog">dog</string>
+    <string name="breed_cow">cow</string>
+    <string name="breed_lama">lama</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_breed">Breed</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_weight">Weight (Kg)</string>
+    <string name="hint_height">Height (cm)</string>
+
+    <string name="value_age">%1$s years old</string>
+    <string name="value_weight">%1$s (Kg)</string>
+    <string name="value_height">%1$s (cm)</string>
+</resources>
